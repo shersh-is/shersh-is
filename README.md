@@ -6,6 +6,6 @@
 - if u cant contact me, well maybe i just dont wanna it ;)
 
 # goals and essentials:
-- high exams grades in 9th and 11th grade
+- high exams marks in 9th and 11th grades
 - studying in innopolis university
 - work in group-ib
