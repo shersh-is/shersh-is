@@ -1,9 +1,9 @@
 # about me
-- im @shersh-sc
+- you can call me shersh
 - im interested in physics, programming, mathematics, algorithms etc...
-- im currently learning Python and some cybersecurity stuff
+- im currently learning Python, C++ and some cybersecurity stuff
 - english is not my first language but im trying to improve it (currently its B1)
-- if u cant contact me, well maybe i just dont wanna it ;)
+- if you cant contact me, well maybe i just dont wanna it ;)
 
 # goals and essentials:
 - high exams marks in 9th and 11th grades
