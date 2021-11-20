@@ -1,5 +1,5 @@
 # about me
-- you can call me shersh
+- you can call me 'shersh'
 - im interested in physics, programming, mathematics, algorithms etc...
 - im currently learning Python, C++ and some cybersecurity stuff
 - english is not my first language but im trying to improve it (currently its B1)
