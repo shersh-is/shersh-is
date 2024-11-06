@@ -1,4 +1,4 @@
-# about me
+# grats!
 - interested in mathematics, programming, algorithms etc.
-- Python, C++ and InfoSec stuff
-- English B2
+- Python, C/C++, Java
+- InfoSec stuff
